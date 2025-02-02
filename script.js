@@ -107,3 +107,84 @@
 
 // 100 ques =----------------
 
+// question-1
+// const name = 'rishi';
+// const favHobby = 'learning'
+
+// console.log(`my name is ${name} & my fav hobby is ${favHobby}`);
+
+// question-2
+// const result = 45*2-10
+// console.log(result)
+
+// question -3
+// const year = new Date().getFullYear();
+// console.log(year);
+
+// question - 4
+// const firstName = 'John'
+// const lastName = 'Doe'
+// console.log(firstName+ " " +  lastName)
+// console.log(`${firstName} ${lastName}`)
+
+// question - 5
+// let num  = 10;
+// console.log(num)
+//  num = 13;
+//  console.log(num);
+ 
+// question -6 
+// console.error(`This is a simulated error`);
+
+// question-7
+// const num = 12;
+// const square = Math.pow(num,2)
+// console.log(square);
+
+// const isAdmin = false
+// console.log(typeof isAdmin);
+
+// const age = 18
+// if(age >= 18){
+//     console.log("you are an adult");
+//  } else{
+//         console.log('this is not an adult');    
+//     }
+    
+// console.log(100/0);
+
+// const PI = 3.14;
+// console.log(PI);
+
+// console.log(typeof null);
+
+// const num = 12
+// const str = 'rishi'
+// const isAdmin = true
+// console.log(`num: ${num} str: ${str} isAdmin: ${isAdmin}`);
+
+// let num;
+// console.log(name);
+// console.log(typeof num);
+
+// let name = undefined;
+// console.log(name);
+// console.log(typeof name);
+
+// const n = 12
+// for(let i = 0; i < n; i++){
+//     console.log(i);
+// }
+
+// let sum = 0;
+// let i = 1;
+// while(i<=10){
+//     sum +=i;
+//     i++;
+// }
+// console.log(sum);
+
+// const str = 'JavaScript';
+// for (const char of str){
+//  console.log(char);
+// }
